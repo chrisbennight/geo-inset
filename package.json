@@ -1,0 +1,20 @@
+{
+  "name": "geographic",
+  "version": "0.0.1",
+  "private": true,
+  "bin": {
+    "geographic": "./main.js"
+  },
+  "dependencies": {
+    "commander": "*",
+    "d3": "*",
+    "d3-geo-projection": "*",
+    "jsdom": "*",
+    "placename": "*",
+    "jsdom": "*",
+    "fs": "*",
+    "topojson": "*",
+    "svg2png": "*",
+    "sharp": "*"
+  }
+}
