@@ -1,5 +1,5 @@
-*.svg
-*.png
+
+
 .idea*
 *.iml
 node_modules*
